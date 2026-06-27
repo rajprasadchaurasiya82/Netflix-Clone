@@ -1,6 +1,8 @@
-#🎬 Netflix India Clone | HTML & CSS Frontend Project
-
 # 🎬 Netflix India Clone
+
+#preview: lustrous-biscochitos-29fe19.netlify.app
+
+🎬 Netflix India Clone | HTML & CSS Frontend Project
 
 A responsive frontend clone of the Netflix India landing page built using HTML and CSS. This project focuses on recreating the modern UI, layout, and styling of the official Netflix India homepage while improving frontend development skills.
 
